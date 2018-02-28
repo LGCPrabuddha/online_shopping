@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using OnlineShopping.Models;
+using OnlineShopping.WebUI.Models;
 
-namespace OnlineShopping.Controllers
+namespace OnlineShopping.WebUI.Controllers
 {
     public class HomeController : Controller
     {

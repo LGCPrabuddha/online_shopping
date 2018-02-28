@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace OnlineShopping
+namespace OnlineShopping.WebUI
 {
     public class Startup
     {
